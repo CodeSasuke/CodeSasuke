@@ -1,32 +1,165 @@
-# CodesSasuke
+# CodeSasuke
+
 <h1 align="center">Hi 👋, I'm Siddhant Bhardwaj</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">Software Engineer focused on Backend Systems, AI Infrastructure, and Scalable Applications</h3>
 
-- 🔭 I’m currently working on [RAG Search Engine](https://github.com/CodeSasuke/rag-search-engine)
+---
 
-- 🌱 I’m currently learning **GO lang**
+## About Me
 
-- 👯 I’m looking to collaborate on [RAG Search Engine](https://github.com/CodeSasuke/rag-search-engine)
+- 🔭 Currently working on:
+  - [Asteroid Game](https://github.com/CodeSasuke/Asteroid-Game) — a Python-based implementation of the classic Asteroids arcade game focused on object-oriented programming, game loops, physics simulation basics, and multi-file project architecture.
+  - [RAG Search Engine](https://github.com/CodeSasuke/rag-search-engine)
 
-- 👨‍💻 All of my projects are available at [https://siddhantbhardwaj.com/](https://siddhantbhardwaj.com/)
+- 🌱 Currently learning:
+  - Go
+  - Distributed Systems
+  - AI Infrastructure
 
-- 💬 Ask me about **python,system design, data structures, discrete math**
+- 👯 Open to collaborating on:
+  - RAG systems
+  - Backend engineering projects
+  - AI tooling and developer infrastructure
 
-- 📫 How to reach me **siddhantbharadwaaj@gmail.com**
+- 💬 Ask me about:
+  - Python
+  - System Design
+  - Data Structures & Algorithms
+  - Backend Development
+  - Retrieval-Augmented Generation (RAG)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iXrXkq34YLcw4g7OSRb_kjNnYYqbBhyY/view?usp=sharing](https://drive.google.com/file/d/1iXrXkq34YLcw4g7OSRb_kjNnYYqbBhyY/view?usp=sharing)
+- 📫 Contact:
+  - siddhantbharadwaajcs@gmail.com
 
-- ⚡ Fun fact **I'm a bodybuilder and fitness enthusiast**
+- 🌐 Portfolio:
+  - https://siddhantbhardwaj.com/
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/siddhant-bhardwaj-59b2b0256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant bhardwaj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codes4suke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codes4suke" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/olafie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olafie" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact:
+  - I’m a bodybuilder and fitness enthusiast.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesasuke&show_icons=true&locale=en&layout=compact" alt="codesasuke" /></p>
+## Experience
 
+### Software Engineer Intern — Deloitte
+**Jan 2026 – Apr 2026**
+
+- Developed a Retrieval-Augmented Generation (RAG) platform enabling developers to query internal documentation and enterprise wikis using context-aware AI responses.
+- Built Backend-for-Frontend (BFF) services using ASP.NET for seamless client-server communication.
+- Designed Python orchestration pipelines for retrieval, embeddings, and response generation workflows.
+- Optimized API performance using pagination, caching, efficient query strategies, and centralized exception handling.
+- Implemented unit, integration, and end-to-end testing using xUnit and Playwright.
+- Built CI/CD pipelines and infrastructure provisioning workflows using Azure DevOps and Azure Bicep.
+
+**Tech Stack:**  
+ASP.NET (C#), Python, Angular, Azure OpenAI, Azure AI Search, PostgreSQL, MS SQL Server, Azure DevOps, Azure Bicep, xUnit, Playwright
+
+### Software Engineer Intern — Anunta Technologies
+**Jun 2025 – Jul 2025**
+
+- Built and deployed AI-powered enterprise chatbots on the Aisera platform.
+- Automated VM slowness incident detection and resolution with a 98% success rate.
+- Improved IT service desk resolution efficiency by 65%.
+
+---
+
+## Featured Projects
+
+### 🚀 Asteroid Game
+Repository: https://github.com/CodeSasuke/Asteroid-Game
+
+- Built a Python implementation of the classic Asteroids arcade game.
+- Focused on object-oriented programming, modular architecture, and game loop mechanics.
+- Implemented player movement, collision handling, asteroid spawning, and physics-based interactions.
+- Used a multi-file project structure to improve maintainability and scalability.
+
+**Tech:** Python
+
+---
+
+### 🔍 RAG Search Engine
+Repository: https://github.com/CodeSasuke/rag-search-engine
+
+- Building a Retrieval-Augmented Generation search platform for intelligent document querying.
+- Integrating embeddings, vector search, and LLM-based response generation.
+
+**Tech:** Python, LangChain, Vector Databases, LLM APIs
+
+---
+
+### 📊 Survey Response Analysis using CrewAI and LangChain
+
+- Built an automated LLM workflow for survey analysis, sentiment detection, and product mapping.
+- Achieved 30% higher accuracy than traditional ML pipelines using multi-agent orchestration.
+- Automated CSV-to-JSON transformation and structured output generation.
+
+**Tech:** Python, CrewAI, LangChain, Groq API, Pandas
+
+---
+
+### 🧠 AutoWCEBleed-Gen: Medical Image Segmentation Pipeline
+
+- Developed an end-to-end bleeding region segmentation pipeline using Detectron2.
+- Achieved 98% accuracy and a Dice coefficient of 0.92.
+- Modularized preprocessing, inference, and visualization workflows.
+
+**Tech:** Python, PyTorch, Detectron2, OpenCV
+
+---
+
+### ⛓ Certificate Registry (Blockchain-based Credential Verification Platform)
+
+- Developed a Solidity-based smart contract platform for tamper-proof academic certificate verification.
+- Implemented role-based access control, certificate revocation, and public verification features.
+
+**Tech:** Solidity, Ethereum, Web3.js, React
+
+---
+
+## Skills
+
+### Languages
+Python • Go • Java • JavaScript • C# • SQL
+
+### Backend
+ASP.NET • .NET • Node.js • Express.js • REST APIs • Redis • WebSockets • LINQ
+
+### AI & ML
+LangChain • LangGraph • CrewAI • Azure OpenAI • Embeddings • RAG Pipelines
+
+### Databases
+PostgreSQL • MongoDB • MS SQL Server • MySQL
+
+### Cloud & DevOps
+Azure • AWS • Docker • Azure DevOps • Supabase • CI/CD
+
+### Tools
+Git • Linux • Pandas • Playwright • xUnit • LaTeX
+
+---
+
+## Competitive Programming
+
+- LeetCode Rating: **2062** (Top 1.82% Global)
+- Weekly Contest Rank: **165**
+- Bi-Weekly Contest Rank: **39**
+
+- LeetCode: https://leetcode.com/olafie
+- Codeforces: https://codeforces.com/profile/codes4suke
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/siddhant-bhardwaj-59b2b0256/
+- GitHub: https://github.com/CodeSasuke
+- Portfolio: https://siddhantbhardwaj.com/
+
+---
+
+## Education
+
+### Vellore Institute of Technology, Chennai
+**B.Tech in Computer Science and Engineering**  
+Sept 2022 – May 2026  
+GPA: 9.03/10
