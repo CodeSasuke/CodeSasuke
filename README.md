@@ -8,7 +8,7 @@
 ## About Me
 
 - 🔭 Currently working on:
-  - [Asteroid Game](https://github.com/CodeSasuke/Asteroid-Game) — a Python-based implementation of the classic Asteroids arcade game focused on object-oriented programming, game loops, physics simulation basics, and multi-file project architecture.
+  - [Asteroid Game](https://github.com/CodeSasuke/Asteroid-Game) — a Python-based implementation of the classic Asteroids arcade game focused on object-oriented programming, game loops, physics simulation basics, and multi-file project architecture. You can play the game at [Live](https://asteroids.siddhantbhardwaj.com/)
   - [RAG Search Engine](https://github.com/CodeSasuke/rag-search-engine)
 
 - 🌱 Currently learning:
