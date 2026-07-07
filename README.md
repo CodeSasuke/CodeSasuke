@@ -91,7 +91,7 @@
   <table>
     <tr>
       <td><strong>LeetCode Rating</strong></td>
-      <td><strong>2062</strong> (Top 1.82% Global 🚀)</td>
+      <td><strong>2075</strong> (Top 1.72% Global 🚀)</td>
     </tr>
     <tr>
       <td><strong>Weekly Contest Rank</strong></td>
@@ -132,4 +132,4 @@
 
 ### **Vellore Institute of Technology, Chennai**  
 🎓 **B.Tech in Computer Science and Engineering** (Sept 2022 – May 2026)  
-📊 **GPA:** `9.03 / 10`
+📊 **GPA:** `9.06 / 10`
